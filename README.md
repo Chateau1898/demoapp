@@ -1,6 +1,6 @@
 #Colin's Fork of demoapp
 
-This is Colin's edit of the README
+This is Colin's edit of the README.
 
 **Instructions**
 
